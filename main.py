@@ -1,6 +1,6 @@
 #WRITE YOUR CODE IN THIS FILE
 #define function 
 def howLong(w):
-    print (len(w))
+    return (len(w))
 
-howLong("hotdog")
+print (howLong("hotdog"))
